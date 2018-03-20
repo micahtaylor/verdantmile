@@ -1,0 +1,15 @@
+title: Verdant Mile
+email: micah@verdantmile.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Rock all the rolls
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
