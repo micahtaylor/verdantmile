@@ -1,5 +1,6 @@
 title: Verdant Mile
 email: micah@verdantmile.com
+analytics: UA-115961213-1
 description: >- # this means to ignore newlines until "baseurl:"
   Rock all the rolls
 baseurl: "" # the subpath of your site, e.g. /blog
